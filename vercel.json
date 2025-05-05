@@ -1,0 +1,20 @@
+{
+  "redirects": [
+    { "source": "/CheckCompany/Index/nika1", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika2", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika3", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika4", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika5", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika6", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika7", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika8", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika9", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika10", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika11", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika12", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika13", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika14", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika15", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true },
+    { "source": "/CheckCompany/Index/nika16", "destination": "https://www.canvers.ca/nikakitchen", "permanent": true }
+  ]
+}
